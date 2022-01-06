@@ -1,0 +1,1 @@
+# Histogram-Oriented-Gradients-and-pedestrian-detection-using-SVM-Classifier-
